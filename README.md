@@ -9,6 +9,7 @@ Project Name: HireMe
 ## User Roles:
 
 **Job Seekers**: Individuals seeking skilled workers for specific tasks.
+
 **Co-Workers:** Skilled individuals without official certifications looking for job opportunities.
 
 ### Registration and Profile Creation:
